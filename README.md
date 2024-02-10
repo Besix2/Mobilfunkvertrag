@@ -1,1 +1,1 @@
-Not working well. No comments ore anything so also no documentation.
+Not working well. No comments or anything so also no documentation.
